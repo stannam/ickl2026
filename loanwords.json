@@ -1,0 +1,4338 @@
+[
+  {
+    "correct_form": "레저",
+    "correct_frequency": 108,
+    "deviant_forms": [
+      {
+        "form": "래저",
+        "frequency": 572
+      }
+    ],
+    "deviant_frequency": 572,
+    "total_frequency": 680,
+    "confusion_rate": 84.11764705882354
+  },
+  {
+    "correct_form": "대미지",
+    "correct_frequency": 190,
+    "deviant_forms": [
+      {
+        "form": "데미지",
+        "frequency": 356
+      }
+    ],
+    "deviant_frequency": 356,
+    "total_frequency": 546,
+    "confusion_rate": 65.2014652014652
+  },
+  {
+    "correct_form": "페널티",
+    "correct_frequency": 74,
+    "deviant_forms": [
+      {
+        "form": "패널티",
+        "frequency": 128
+      }
+    ],
+    "deviant_frequency": 128,
+    "total_frequency": 202,
+    "confusion_rate": 63.366336633663366
+  },
+  {
+    "correct_form": "랠리",
+    "correct_frequency": 60,
+    "deviant_forms": [
+      {
+        "form": "렐리",
+        "frequency": 93
+      }
+    ],
+    "deviant_frequency": 93,
+    "total_frequency": 153,
+    "confusion_rate": 60.78431372549019
+  },
+  {
+    "correct_form": "테제",
+    "correct_frequency": 59,
+    "deviant_forms": [
+      {
+        "form": "태재",
+        "frequency": 12
+      },
+      {
+        "form": "태제",
+        "frequency": 62
+      },
+      {
+        "form": "테재",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 75,
+    "total_frequency": 134,
+    "confusion_rate": 55.970149253731336
+  },
+  {
+    "correct_form": "테베",
+    "correct_frequency": 22,
+    "deviant_forms": [
+      {
+        "form": "태배",
+        "frequency": 5
+      },
+      {
+        "form": "태베",
+        "frequency": 8
+      },
+      {
+        "form": "테배",
+        "frequency": 6
+      }
+    ],
+    "deviant_frequency": 19,
+    "total_frequency": 41,
+    "confusion_rate": 46.34146341463415
+  },
+  {
+    "correct_form": "앰프",
+    "correct_frequency": 33,
+    "deviant_forms": [
+      {
+        "form": "엠프",
+        "frequency": 25
+      }
+    ],
+    "deviant_frequency": 25,
+    "total_frequency": 58,
+    "confusion_rate": 43.103448275862064
+  },
+  {
+    "correct_form": "메커니즘",
+    "correct_frequency": 113,
+    "deviant_forms": [
+      {
+        "form": "매커니즘",
+        "frequency": 73
+      }
+    ],
+    "deviant_frequency": 73,
+    "total_frequency": 186,
+    "confusion_rate": 39.247311827956985
+  },
+  {
+    "correct_form": "팩",
+    "correct_frequency": 3890,
+    "deviant_forms": [
+      {
+        "form": "펙",
+        "frequency": 2159
+      }
+    ],
+    "deviant_frequency": 2159,
+    "total_frequency": 6049,
+    "confusion_rate": 35.69184989254422
+  },
+  {
+    "correct_form": "팩스",
+    "correct_frequency": 88,
+    "deviant_forms": [
+      {
+        "form": "펙스",
+        "frequency": 45
+      }
+    ],
+    "deviant_frequency": 45,
+    "total_frequency": 133,
+    "confusion_rate": 33.83458646616541
+  },
+  {
+    "correct_form": "노스탤지어",
+    "correct_frequency": 46,
+    "deviant_forms": [
+      {
+        "form": "노스텔지어",
+        "frequency": 22
+      }
+    ],
+    "deviant_frequency": 22,
+    "total_frequency": 68,
+    "confusion_rate": 32.35294117647059
+  },
+  {
+    "correct_form": "매트",
+    "correct_frequency": 893,
+    "deviant_forms": [
+      {
+        "form": "메트",
+        "frequency": 421
+      }
+    ],
+    "deviant_frequency": 421,
+    "total_frequency": 1314,
+    "confusion_rate": 32.03957382039574
+  },
+  {
+    "correct_form": "레버",
+    "correct_frequency": 266,
+    "deviant_forms": [
+      {
+        "form": "래버",
+        "frequency": 120
+      }
+    ],
+    "deviant_frequency": 120,
+    "total_frequency": 386,
+    "confusion_rate": 31.088082901554404
+  },
+  {
+    "correct_form": "액세스",
+    "correct_frequency": 69,
+    "deviant_forms": [
+      {
+        "form": "엑세스",
+        "frequency": 30
+      }
+    ],
+    "deviant_frequency": 30,
+    "total_frequency": 99,
+    "confusion_rate": 30.303030303030305
+  },
+  {
+    "correct_form": "라켓",
+    "correct_frequency": 28,
+    "deviant_forms": [
+      {
+        "form": "라캣",
+        "frequency": 11
+      }
+    ],
+    "deviant_frequency": 11,
+    "total_frequency": 39,
+    "confusion_rate": 28.205128205128204
+  },
+  {
+    "correct_form": "매뉴얼",
+    "correct_frequency": 200,
+    "deviant_forms": [
+      {
+        "form": "메뉴얼",
+        "frequency": 77
+      }
+    ],
+    "deviant_frequency": 77,
+    "total_frequency": 277,
+    "confusion_rate": 27.79783393501805
+  },
+  {
+    "correct_form": "탤런트",
+    "correct_frequency": 26,
+    "deviant_forms": [
+      {
+        "form": "텔런트",
+        "frequency": 10
+      }
+    ],
+    "deviant_frequency": 10,
+    "total_frequency": 36,
+    "confusion_rate": 27.77777777777778
+  },
+  {
+    "correct_form": "케밥",
+    "correct_frequency": 91,
+    "deviant_forms": [
+      {
+        "form": "캐밥",
+        "frequency": 33
+      }
+    ],
+    "deviant_frequency": 33,
+    "total_frequency": 124,
+    "confusion_rate": 26.61290322580645
+  },
+  {
+    "correct_form": "네트",
+    "correct_frequency": 886,
+    "deviant_forms": [
+      {
+        "form": "내트",
+        "frequency": 305
+      }
+    ],
+    "deviant_frequency": 305,
+    "total_frequency": 1191,
+    "confusion_rate": 25.608732157850543
+  },
+  {
+    "correct_form": "캐러멜",
+    "correct_frequency": 39,
+    "deviant_forms": [
+      {
+        "form": "캐러맬",
+        "frequency": 12
+      }
+    ],
+    "deviant_frequency": 12,
+    "total_frequency": 51,
+    "confusion_rate": 23.52941176470588
+  },
+  {
+    "correct_form": "펜스",
+    "correct_frequency": 254,
+    "deviant_forms": [
+      {
+        "form": "팬스",
+        "frequency": 76
+      }
+    ],
+    "deviant_frequency": 76,
+    "total_frequency": 330,
+    "confusion_rate": 23.03030303030303
+  },
+  {
+    "correct_form": "매치",
+    "correct_frequency": 447,
+    "deviant_forms": [
+      {
+        "form": "메치",
+        "frequency": 121
+      }
+    ],
+    "deviant_frequency": 121,
+    "total_frequency": 568,
+    "confusion_rate": 21.30281690140845
+  },
+  {
+    "correct_form": "레게",
+    "correct_frequency": 229,
+    "deviant_forms": [
+      {
+        "form": "래개",
+        "frequency": 34
+      },
+      {
+        "form": "래게",
+        "frequency": 6
+      },
+      {
+        "form": "레개",
+        "frequency": 7
+      }
+    ],
+    "deviant_frequency": 47,
+    "total_frequency": 276,
+    "confusion_rate": 17.02898550724638
+  },
+  {
+    "correct_form": "프랜차이즈",
+    "correct_frequency": 288,
+    "deviant_forms": [
+      {
+        "form": "프렌차이즈",
+        "frequency": 56
+      }
+    ],
+    "deviant_frequency": 56,
+    "total_frequency": 344,
+    "confusion_rate": 16.27906976744186
+  },
+  {
+    "correct_form": "펜션",
+    "correct_frequency": 78,
+    "deviant_forms": [
+      {
+        "form": "팬션",
+        "frequency": 15
+      }
+    ],
+    "deviant_frequency": 15,
+    "total_frequency": 93,
+    "confusion_rate": 16.129032258064516
+  },
+  {
+    "correct_form": "피켓",
+    "correct_frequency": 331,
+    "deviant_forms": [
+      {
+        "form": "피캣",
+        "frequency": 63
+      }
+    ],
+    "deviant_frequency": 63,
+    "total_frequency": 394,
+    "confusion_rate": 15.989847715736042
+  },
+  {
+    "correct_form": "패널",
+    "correct_frequency": 397,
+    "deviant_forms": [
+      {
+        "form": "페널",
+        "frequency": 74
+      }
+    ],
+    "deviant_frequency": 74,
+    "total_frequency": 471,
+    "confusion_rate": 15.711252653927813
+  },
+  {
+    "correct_form": "포맷",
+    "correct_frequency": 223,
+    "deviant_forms": [
+      {
+        "form": "포멧",
+        "frequency": 37
+      }
+    ],
+    "deviant_frequency": 37,
+    "total_frequency": 260,
+    "confusion_rate": 14.23076923076923
+  },
+  {
+    "correct_form": "해저드",
+    "correct_frequency": 37,
+    "deviant_forms": [
+      {
+        "form": "헤저드",
+        "frequency": 6
+      }
+    ],
+    "deviant_frequency": 6,
+    "total_frequency": 43,
+    "confusion_rate": 13.953488372093023
+  },
+  {
+    "correct_form": "인터내셔널",
+    "correct_frequency": 33,
+    "deviant_forms": [
+      {
+        "form": "인터네셔널",
+        "frequency": 5
+      }
+    ],
+    "deviant_frequency": 5,
+    "total_frequency": 38,
+    "confusion_rate": 13.157894736842104
+  },
+  {
+    "correct_form": "해프닝",
+    "correct_frequency": 200,
+    "deviant_forms": [
+      {
+        "form": "헤프닝",
+        "frequency": 28
+      }
+    ],
+    "deviant_frequency": 28,
+    "total_frequency": 228,
+    "confusion_rate": 12.280701754385964
+  },
+  {
+    "correct_form": "개그",
+    "correct_frequency": 1891,
+    "deviant_forms": [
+      {
+        "form": "게그",
+        "frequency": 262
+      }
+    ],
+    "deviant_frequency": 262,
+    "total_frequency": 2153,
+    "confusion_rate": 12.169066418950301
+  },
+  {
+    "correct_form": "게스트",
+    "correct_frequency": 264,
+    "deviant_forms": [
+      {
+        "form": "개스트",
+        "frequency": 35
+      }
+    ],
+    "deviant_frequency": 35,
+    "total_frequency": 299,
+    "confusion_rate": 11.705685618729097
+  },
+  {
+    "correct_form": "메뉴",
+    "correct_frequency": 2839,
+    "deviant_forms": [
+      {
+        "form": "매뉴",
+        "frequency": 364
+      }
+    ],
+    "deviant_frequency": 364,
+    "total_frequency": 3203,
+    "confusion_rate": 11.364345925694662
+  },
+  {
+    "correct_form": "페달",
+    "correct_frequency": 103,
+    "deviant_forms": [
+      {
+        "form": "패달",
+        "frequency": 13
+      }
+    ],
+    "deviant_frequency": 13,
+    "total_frequency": 116,
+    "confusion_rate": 11.206896551724139
+  },
+  {
+    "correct_form": "매트리스",
+    "correct_frequency": 129,
+    "deviant_forms": [
+      {
+        "form": "메트리스",
+        "frequency": 14
+      }
+    ],
+    "deviant_frequency": 14,
+    "total_frequency": 143,
+    "confusion_rate": 9.79020979020979
+  },
+  {
+    "correct_form": "캐비닛",
+    "correct_frequency": 28,
+    "deviant_forms": [
+      {
+        "form": "케비닛",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 3,
+    "total_frequency": 31,
+    "confusion_rate": 9.67741935483871
+  },
+  {
+    "correct_form": "매카시즘",
+    "correct_frequency": 38,
+    "deviant_forms": [
+      {
+        "form": "메카시즘",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 42,
+    "confusion_rate": 9.523809523809524
+  },
+  {
+    "correct_form": "트랙",
+    "correct_frequency": 1378,
+    "deviant_forms": [
+      {
+        "form": "트렉",
+        "frequency": 138
+      }
+    ],
+    "deviant_frequency": 138,
+    "total_frequency": 1516,
+    "confusion_rate": 9.102902374670185
+  },
+  {
+    "correct_form": "헬멧",
+    "correct_frequency": 225,
+    "deviant_forms": [
+      {
+        "form": "핼맷",
+        "frequency": 1
+      },
+      {
+        "form": "핼멧",
+        "frequency": 1
+      },
+      {
+        "form": "헬맷",
+        "frequency": 16
+      }
+    ],
+    "deviant_frequency": 18,
+    "total_frequency": 243,
+    "confusion_rate": 7.4074074074074066
+  },
+  {
+    "correct_form": "클렌징",
+    "correct_frequency": 90,
+    "deviant_forms": [
+      {
+        "form": "클랜징",
+        "frequency": 7
+      }
+    ],
+    "deviant_frequency": 7,
+    "total_frequency": 97,
+    "confusion_rate": 7.216494845360824
+  },
+  {
+    "correct_form": "모뎀",
+    "correct_frequency": 39,
+    "deviant_forms": [
+      {
+        "form": "모댐",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 3,
+    "total_frequency": 42,
+    "confusion_rate": 7.142857142857142
+  },
+  {
+    "correct_form": "밸브",
+    "correct_frequency": 79,
+    "deviant_forms": [
+      {
+        "form": "벨브",
+        "frequency": 6
+      }
+    ],
+    "deviant_frequency": 6,
+    "total_frequency": 85,
+    "confusion_rate": 7.0588235294117645
+  },
+  {
+    "correct_form": "밴쿠버",
+    "correct_frequency": 134,
+    "deviant_forms": [
+      {
+        "form": "벤쿠버",
+        "frequency": 10
+      }
+    ],
+    "deviant_frequency": 10,
+    "total_frequency": 144,
+    "confusion_rate": 6.944444444444445
+  },
+  {
+    "correct_form": "펭귄",
+    "correct_frequency": 524,
+    "deviant_forms": [
+      {
+        "form": "팽귄",
+        "frequency": 36
+      }
+    ],
+    "deviant_frequency": 36,
+    "total_frequency": 560,
+    "confusion_rate": 6.428571428571428
+  },
+  {
+    "correct_form": "에러",
+    "correct_frequency": 309,
+    "deviant_forms": [
+      {
+        "form": "애러",
+        "frequency": 21
+      }
+    ],
+    "deviant_frequency": 21,
+    "total_frequency": 330,
+    "confusion_rate": 6.363636363636363
+  },
+  {
+    "correct_form": "커맨드",
+    "correct_frequency": 75,
+    "deviant_forms": [
+      {
+        "form": "커멘드",
+        "frequency": 5
+      }
+    ],
+    "deviant_frequency": 5,
+    "total_frequency": 80,
+    "confusion_rate": 6.25
+  },
+  {
+    "correct_form": "케어",
+    "correct_frequency": 648,
+    "deviant_forms": [
+      {
+        "form": "캐어",
+        "frequency": 43
+      }
+    ],
+    "deviant_frequency": 43,
+    "total_frequency": 691,
+    "confusion_rate": 6.2228654124457305
+  },
+  {
+    "correct_form": "해머",
+    "correct_frequency": 145,
+    "deviant_forms": [
+      {
+        "form": "헤머",
+        "frequency": 9
+      }
+    ],
+    "deviant_frequency": 9,
+    "total_frequency": 154,
+    "confusion_rate": 5.844155844155844
+  },
+  {
+    "correct_form": "벡터",
+    "correct_frequency": 135,
+    "deviant_forms": [
+      {
+        "form": "백터",
+        "frequency": 8
+      }
+    ],
+    "deviant_frequency": 8,
+    "total_frequency": 143,
+    "confusion_rate": 5.594405594405594
+  },
+  {
+    "correct_form": "메탄",
+    "correct_frequency": 51,
+    "deviant_forms": [
+      {
+        "form": "매탄",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 3,
+    "total_frequency": 54,
+    "confusion_rate": 5.555555555555555
+  },
+  {
+    "correct_form": "트랙터",
+    "correct_frequency": 762,
+    "deviant_forms": [
+      {
+        "form": "트렉터",
+        "frequency": 43
+      }
+    ],
+    "deviant_frequency": 43,
+    "total_frequency": 805,
+    "confusion_rate": 5.341614906832298
+  },
+  {
+    "correct_form": "레퍼토리",
+    "correct_frequency": 92,
+    "deviant_forms": [
+      {
+        "form": "래퍼토리",
+        "frequency": 5
+      }
+    ],
+    "deviant_frequency": 5,
+    "total_frequency": 97,
+    "confusion_rate": 5.154639175257731
+  },
+  {
+    "correct_form": "랜턴",
+    "correct_frequency": 95,
+    "deviant_forms": [
+      {
+        "form": "렌턴",
+        "frequency": 5
+      }
+    ],
+    "deviant_frequency": 5,
+    "total_frequency": 100,
+    "confusion_rate": 5.0
+  },
+  {
+    "correct_form": "핸디",
+    "correct_frequency": 38,
+    "deviant_forms": [
+      {
+        "form": "헨디",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 40,
+    "confusion_rate": 5.0
+  },
+  {
+    "correct_form": "하이에나",
+    "correct_frequency": 59,
+    "deviant_forms": [
+      {
+        "form": "하이애나",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 3,
+    "total_frequency": 62,
+    "confusion_rate": 4.838709677419355
+  },
+  {
+    "correct_form": "레테",
+    "correct_frequency": 120,
+    "deviant_forms": [
+      {
+        "form": "래태",
+        "frequency": 3
+      },
+      {
+        "form": "래테",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 6,
+    "total_frequency": 126,
+    "confusion_rate": 4.761904761904762
+  },
+  {
+    "correct_form": "트랩",
+    "correct_frequency": 280,
+    "deviant_forms": [
+      {
+        "form": "트렙",
+        "frequency": 13
+      }
+    ],
+    "deviant_frequency": 13,
+    "total_frequency": 293,
+    "confusion_rate": 4.436860068259386
+  },
+  {
+    "correct_form": "템플",
+    "correct_frequency": 331,
+    "deviant_forms": [
+      {
+        "form": "탬플",
+        "frequency": 15
+      }
+    ],
+    "deviant_frequency": 15,
+    "total_frequency": 346,
+    "confusion_rate": 4.335260115606936
+  },
+  {
+    "correct_form": "메달리스트",
+    "correct_frequency": 183,
+    "deviant_forms": [
+      {
+        "form": "매달리스트",
+        "frequency": 8
+      }
+    ],
+    "deviant_frequency": 8,
+    "total_frequency": 191,
+    "confusion_rate": 4.18848167539267
+  },
+  {
+    "correct_form": "로켓",
+    "correct_frequency": 377,
+    "deviant_forms": [
+      {
+        "form": "로캣",
+        "frequency": 14
+      }
+    ],
+    "deviant_frequency": 14,
+    "total_frequency": 391,
+    "confusion_rate": 3.580562659846547
+  },
+  {
+    "correct_form": "서스펜스",
+    "correct_frequency": 54,
+    "deviant_forms": [
+      {
+        "form": "서스팬스",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 56,
+    "confusion_rate": 3.571428571428571
+  },
+  {
+    "correct_form": "플래시",
+    "correct_frequency": 338,
+    "deviant_forms": [
+      {
+        "form": "플레시",
+        "frequency": 12
+      }
+    ],
+    "deviant_frequency": 12,
+    "total_frequency": 350,
+    "confusion_rate": 3.428571428571429
+  },
+  {
+    "correct_form": "패러독스",
+    "correct_frequency": 86,
+    "deviant_forms": [
+      {
+        "form": "페러독스",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 3,
+    "total_frequency": 89,
+    "confusion_rate": 3.3707865168539324
+  },
+  {
+    "correct_form": "섹터",
+    "correct_frequency": 29,
+    "deviant_forms": [
+      {
+        "form": "색터",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 30,
+    "confusion_rate": 3.3333333333333335
+  },
+  {
+    "correct_form": "멤버십",
+    "correct_frequency": 298,
+    "deviant_forms": [
+      {
+        "form": "맴버십",
+        "frequency": 10
+      }
+    ],
+    "deviant_frequency": 10,
+    "total_frequency": 308,
+    "confusion_rate": 3.2467532467532463
+  },
+  {
+    "correct_form": "멤버",
+    "correct_frequency": 2536,
+    "deviant_forms": [
+      {
+        "form": "맴버",
+        "frequency": 85
+      }
+    ],
+    "deviant_frequency": 85,
+    "total_frequency": 2621,
+    "confusion_rate": 3.2430370087752762
+  },
+  {
+    "correct_form": "갭",
+    "correct_frequency": 452,
+    "deviant_forms": [
+      {
+        "form": "겝",
+        "frequency": 15
+      }
+    ],
+    "deviant_frequency": 15,
+    "total_frequency": 467,
+    "confusion_rate": 3.2119914346895073
+  },
+  {
+    "correct_form": "체스",
+    "correct_frequency": 491,
+    "deviant_forms": [
+      {
+        "form": "채스",
+        "frequency": 16
+      }
+    ],
+    "deviant_frequency": 16,
+    "total_frequency": 507,
+    "confusion_rate": 3.155818540433925
+  },
+  {
+    "correct_form": "실루엣",
+    "correct_frequency": 369,
+    "deviant_forms": [
+      {
+        "form": "실루앳",
+        "frequency": 12
+      }
+    ],
+    "deviant_frequency": 12,
+    "total_frequency": 381,
+    "confusion_rate": 3.149606299212598
+  },
+  {
+    "correct_form": "오버랩",
+    "correct_frequency": 62,
+    "deviant_forms": [
+      {
+        "form": "오버렙",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 64,
+    "confusion_rate": 3.125
+  },
+  {
+    "correct_form": "크레용",
+    "correct_frequency": 31,
+    "deviant_forms": [
+      {
+        "form": "크래용",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 32,
+    "confusion_rate": 3.125
+  },
+  {
+    "correct_form": "맥베스",
+    "correct_frequency": 33,
+    "deviant_forms": [
+      {
+        "form": "멕베스",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 34,
+    "confusion_rate": 2.941176470588235
+  },
+  {
+    "correct_form": "메모",
+    "correct_frequency": 2311,
+    "deviant_forms": [
+      {
+        "form": "매모",
+        "frequency": 70
+      }
+    ],
+    "deviant_frequency": 70,
+    "total_frequency": 2381,
+    "confusion_rate": 2.9399412011759765
+  },
+  {
+    "correct_form": "앵글",
+    "correct_frequency": 236,
+    "deviant_forms": [
+      {
+        "form": "엥글",
+        "frequency": 7
+      }
+    ],
+    "deviant_frequency": 7,
+    "total_frequency": 243,
+    "confusion_rate": 2.880658436213992
+  },
+  {
+    "correct_form": "부메랑",
+    "correct_frequency": 34,
+    "deviant_forms": [
+      {
+        "form": "부매랑",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 35,
+    "confusion_rate": 2.857142857142857
+  },
+  {
+    "correct_form": "매니큐어",
+    "correct_frequency": 73,
+    "deviant_forms": [
+      {
+        "form": "메니큐어",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 75,
+    "confusion_rate": 2.666666666666667
+  },
+  {
+    "correct_form": "드래프트",
+    "correct_frequency": 37,
+    "deviant_forms": [
+      {
+        "form": "드레프트",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 38,
+    "confusion_rate": 2.631578947368421
+  },
+  {
+    "correct_form": "재즈",
+    "correct_frequency": 453,
+    "deviant_forms": [
+      {
+        "form": "제즈",
+        "frequency": 12
+      }
+    ],
+    "deviant_frequency": 12,
+    "total_frequency": 465,
+    "confusion_rate": 2.5806451612903225
+  },
+  {
+    "correct_form": "브랜디",
+    "correct_frequency": 38,
+    "deviant_forms": [
+      {
+        "form": "브렌디",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 39,
+    "confusion_rate": 2.564102564102564
+  },
+  {
+    "correct_form": "첼로",
+    "correct_frequency": 196,
+    "deviant_forms": [
+      {
+        "form": "챌로",
+        "frequency": 5
+      }
+    ],
+    "deviant_frequency": 5,
+    "total_frequency": 201,
+    "confusion_rate": 2.4875621890547266
+  },
+  {
+    "correct_form": "데스크",
+    "correct_frequency": 473,
+    "deviant_forms": [
+      {
+        "form": "대스크",
+        "frequency": 12
+      }
+    ],
+    "deviant_frequency": 12,
+    "total_frequency": 485,
+    "confusion_rate": 2.4742268041237114
+  },
+  {
+    "correct_form": "샌들",
+    "correct_frequency": 80,
+    "deviant_forms": [
+      {
+        "form": "센들",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 82,
+    "confusion_rate": 2.4390243902439024
+  },
+  {
+    "correct_form": "알로에",
+    "correct_frequency": 40,
+    "deviant_forms": [
+      {
+        "form": "알로애",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 41,
+    "confusion_rate": 2.4390243902439024
+  },
+  {
+    "correct_form": "매트릭스",
+    "correct_frequency": 121,
+    "deviant_forms": [
+      {
+        "form": "메트릭스",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 3,
+    "total_frequency": 124,
+    "confusion_rate": 2.4193548387096775
+  },
+  {
+    "correct_form": "라벨",
+    "correct_frequency": 2265,
+    "deviant_forms": [
+      {
+        "form": "라밸",
+        "frequency": 56
+      }
+    ],
+    "deviant_frequency": 56,
+    "total_frequency": 2321,
+    "confusion_rate": 2.4127531236535975
+  },
+  {
+    "correct_form": "러셀",
+    "correct_frequency": 41,
+    "deviant_forms": [
+      {
+        "form": "러샐",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 42,
+    "confusion_rate": 2.380952380952381
+  },
+  {
+    "correct_form": "스냅",
+    "correct_frequency": 165,
+    "deviant_forms": [
+      {
+        "form": "스넵",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 169,
+    "confusion_rate": 2.366863905325444
+  },
+  {
+    "correct_form": "컬렉션",
+    "correct_frequency": 461,
+    "deviant_forms": [
+      {
+        "form": "컬랙션",
+        "frequency": 11
+      }
+    ],
+    "deviant_frequency": 11,
+    "total_frequency": 472,
+    "confusion_rate": 2.330508474576271
+  },
+  {
+    "correct_form": "태클",
+    "correct_frequency": 183,
+    "deviant_forms": [
+      {
+        "form": "테클",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 187,
+    "confusion_rate": 2.13903743315508
+  },
+  {
+    "correct_form": "게릴라",
+    "correct_frequency": 46,
+    "deviant_forms": [
+      {
+        "form": "개릴라",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 47,
+    "confusion_rate": 2.127659574468085
+  },
+  {
+    "correct_form": "패스트푸드",
+    "correct_frequency": 46,
+    "deviant_forms": [
+      {
+        "form": "페스트푸드",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 47,
+    "confusion_rate": 2.127659574468085
+  },
+  {
+    "correct_form": "캐리어",
+    "correct_frequency": 418,
+    "deviant_forms": [
+      {
+        "form": "케리어",
+        "frequency": 9
+      }
+    ],
+    "deviant_frequency": 9,
+    "total_frequency": 427,
+    "confusion_rate": 2.107728337236534
+  },
+  {
+    "correct_form": "렌즈",
+    "correct_frequency": 949,
+    "deviant_forms": [
+      {
+        "form": "랜즈",
+        "frequency": 20
+      }
+    ],
+    "deviant_frequency": 20,
+    "total_frequency": 969,
+    "confusion_rate": 2.063983488132095
+  },
+  {
+    "correct_form": "테마",
+    "correct_frequency": 1690,
+    "deviant_forms": [
+      {
+        "form": "태마",
+        "frequency": 35
+      }
+    ],
+    "deviant_frequency": 35,
+    "total_frequency": 1725,
+    "confusion_rate": 2.0289855072463765
+  },
+  {
+    "correct_form": "캐릭터",
+    "correct_frequency": 13600,
+    "deviant_forms": [
+      {
+        "form": "케릭터",
+        "frequency": 281
+      }
+    ],
+    "deviant_frequency": 281,
+    "total_frequency": 13881,
+    "confusion_rate": 2.02434983070384
+  },
+  {
+    "correct_form": "레닌",
+    "correct_frequency": 49,
+    "deviant_forms": [
+      {
+        "form": "래닌",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 50,
+    "confusion_rate": 2.0
+  },
+  {
+    "correct_form": "스탬프",
+    "correct_frequency": 199,
+    "deviant_forms": [
+      {
+        "form": "스템프",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 203,
+    "confusion_rate": 1.9704433497536946
+  },
+  {
+    "correct_form": "펜팔",
+    "correct_frequency": 51,
+    "deviant_forms": [
+      {
+        "form": "팬팔",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 52,
+    "confusion_rate": 1.9230769230769231
+  },
+  {
+    "correct_form": "크래커",
+    "correct_frequency": 104,
+    "deviant_forms": [
+      {
+        "form": "크레커",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 106,
+    "confusion_rate": 1.8867924528301887
+  },
+  {
+    "correct_form": "밧데리",
+    "correct_frequency": 53,
+    "deviant_forms": [
+      {
+        "form": "밧대리",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 54,
+    "confusion_rate": 1.8518518518518516
+  },
+  {
+    "correct_form": "배터리",
+    "correct_frequency": 1557,
+    "deviant_forms": [
+      {
+        "form": "베터리",
+        "frequency": 29
+      }
+    ],
+    "deviant_frequency": 29,
+    "total_frequency": 1586,
+    "confusion_rate": 1.8284993694829759
+  },
+  {
+    "correct_form": "스케치",
+    "correct_frequency": 756,
+    "deviant_forms": [
+      {
+        "form": "스캐치",
+        "frequency": 14
+      }
+    ],
+    "deviant_frequency": 14,
+    "total_frequency": 770,
+    "confusion_rate": 1.8181818181818181
+  },
+  {
+    "correct_form": "스탠드",
+    "correct_frequency": 655,
+    "deviant_forms": [
+      {
+        "form": "스텐드",
+        "frequency": 12
+      }
+    ],
+    "deviant_frequency": 12,
+    "total_frequency": 667,
+    "confusion_rate": 1.7991004497751124
+  },
+  {
+    "correct_form": "제트",
+    "correct_frequency": 575,
+    "deviant_forms": [
+      {
+        "form": "재트",
+        "frequency": 10
+      }
+    ],
+    "deviant_frequency": 10,
+    "total_frequency": 585,
+    "confusion_rate": 1.7094017094017095
+  },
+  {
+    "correct_form": "스펙트럼",
+    "correct_frequency": 373,
+    "deviant_forms": [
+      {
+        "form": "스팩트럼",
+        "frequency": 6
+      }
+    ],
+    "deviant_frequency": 6,
+    "total_frequency": 379,
+    "confusion_rate": 1.58311345646438
+  },
+  {
+    "correct_form": "뷔페",
+    "correct_frequency": 376,
+    "deviant_forms": [
+      {
+        "form": "뷔패",
+        "frequency": 6
+      }
+    ],
+    "deviant_frequency": 6,
+    "total_frequency": 382,
+    "confusion_rate": 1.5706806282722512
+  },
+  {
+    "correct_form": "나폴레옹",
+    "correct_frequency": 64,
+    "deviant_forms": [
+      {
+        "form": "나폴래옹",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 65,
+    "confusion_rate": 1.5384615384615385
+  },
+  {
+    "correct_form": "오브제",
+    "correct_frequency": 64,
+    "deviant_forms": [
+      {
+        "form": "오브재",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 65,
+    "confusion_rate": 1.5384615384615385
+  },
+  {
+    "correct_form": "케첩",
+    "correct_frequency": 64,
+    "deviant_forms": [
+      {
+        "form": "캐첩",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 65,
+    "confusion_rate": 1.5384615384615385
+  },
+  {
+    "correct_form": "배드민턴",
+    "correct_frequency": 66,
+    "deviant_forms": [
+      {
+        "form": "베드민턴",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 67,
+    "confusion_rate": 1.4925373134328357
+  },
+  {
+    "correct_form": "스케치북",
+    "correct_frequency": 67,
+    "deviant_forms": [
+      {
+        "form": "스캐치북",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 68,
+    "confusion_rate": 1.4705882352941175
+  },
+  {
+    "correct_form": "캐스터",
+    "correct_frequency": 272,
+    "deviant_forms": [
+      {
+        "form": "케스터",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 276,
+    "confusion_rate": 1.4492753623188406
+  },
+  {
+    "correct_form": "해커",
+    "correct_frequency": 345,
+    "deviant_forms": [
+      {
+        "form": "헤커",
+        "frequency": 5
+      }
+    ],
+    "deviant_frequency": 5,
+    "total_frequency": 350,
+    "confusion_rate": 1.4285714285714286
+  },
+  {
+    "correct_form": "벨트",
+    "correct_frequency": 553,
+    "deviant_forms": [
+      {
+        "form": "밸트",
+        "frequency": 8
+      }
+    ],
+    "deviant_frequency": 8,
+    "total_frequency": 561,
+    "confusion_rate": 1.4260249554367201
+  },
+  {
+    "correct_form": "헤딩",
+    "correct_frequency": 289,
+    "deviant_forms": [
+      {
+        "form": "해딩",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 293,
+    "confusion_rate": 1.3651877133105803
+  },
+  {
+    "correct_form": "템포",
+    "correct_frequency": 219,
+    "deviant_forms": [
+      {
+        "form": "탬포",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 3,
+    "total_frequency": 222,
+    "confusion_rate": 1.3513513513513513
+  },
+  {
+    "correct_form": "글래머",
+    "correct_frequency": 74,
+    "deviant_forms": [
+      {
+        "form": "글레머",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 75,
+    "confusion_rate": 1.3333333333333335
+  },
+  {
+    "correct_form": "오메가",
+    "correct_frequency": 597,
+    "deviant_forms": [
+      {
+        "form": "오매가",
+        "frequency": 8
+      }
+    ],
+    "deviant_frequency": 8,
+    "total_frequency": 605,
+    "confusion_rate": 1.322314049586777
+  },
+  {
+    "correct_form": "밸런스",
+    "correct_frequency": 601,
+    "deviant_forms": [
+      {
+        "form": "벨런스",
+        "frequency": 8
+      }
+    ],
+    "deviant_frequency": 8,
+    "total_frequency": 609,
+    "confusion_rate": 1.3136288998357963
+  },
+  {
+    "correct_form": "테러",
+    "correct_frequency": 1062,
+    "deviant_forms": [
+      {
+        "form": "태러",
+        "frequency": 14
+      }
+    ],
+    "deviant_frequency": 14,
+    "total_frequency": 1076,
+    "confusion_rate": 1.3011152416356877
+  },
+  {
+    "correct_form": "넥타이",
+    "correct_frequency": 228,
+    "deviant_forms": [
+      {
+        "form": "낵타이",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 3,
+    "total_frequency": 231,
+    "confusion_rate": 1.2987012987012987
+  },
+  {
+    "correct_form": "캔버스",
+    "correct_frequency": 305,
+    "deviant_forms": [
+      {
+        "form": "켄버스",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 309,
+    "confusion_rate": 1.2944983818770228
+  },
+  {
+    "correct_form": "아드레날린",
+    "correct_frequency": 78,
+    "deviant_forms": [
+      {
+        "form": "아드래날린",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 79,
+    "confusion_rate": 1.2658227848101267
+  },
+  {
+    "correct_form": "테크닉",
+    "correct_frequency": 78,
+    "deviant_forms": [
+      {
+        "form": "태크닉",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 79,
+    "confusion_rate": 1.2658227848101267
+  },
+  {
+    "correct_form": "패러디",
+    "correct_frequency": 625,
+    "deviant_forms": [
+      {
+        "form": "페러디",
+        "frequency": 8
+      }
+    ],
+    "deviant_frequency": 8,
+    "total_frequency": 633,
+    "confusion_rate": 1.263823064770932
+  },
+  {
+    "correct_form": "베란다",
+    "correct_frequency": 552,
+    "deviant_forms": [
+      {
+        "form": "배란다",
+        "frequency": 7
+      }
+    ],
+    "deviant_frequency": 7,
+    "total_frequency": 559,
+    "confusion_rate": 1.2522361359570662
+  },
+  {
+    "correct_form": "페미니스트",
+    "correct_frequency": 1006,
+    "deviant_forms": [
+      {
+        "form": "패미니스트",
+        "frequency": 12
+      }
+    ],
+    "deviant_frequency": 12,
+    "total_frequency": 1018,
+    "confusion_rate": 1.1787819253438114
+  },
+  {
+    "correct_form": "팔레트",
+    "correct_frequency": 181,
+    "deviant_forms": [
+      {
+        "form": "팔래트",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 183,
+    "confusion_rate": 1.092896174863388
+  },
+  {
+    "correct_form": "멜라토닌",
+    "correct_frequency": 91,
+    "deviant_forms": [
+      {
+        "form": "맬라토닌",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 92,
+    "confusion_rate": 1.0869565217391304
+  },
+  {
+    "correct_form": "콘센트",
+    "correct_frequency": 92,
+    "deviant_forms": [
+      {
+        "form": "콘샌트",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 93,
+    "confusion_rate": 1.0752688172043012
+  },
+  {
+    "correct_form": "벤치",
+    "correct_frequency": 418,
+    "deviant_forms": [
+      {
+        "form": "밴치",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 422,
+    "confusion_rate": 0.9478672985781991
+  },
+  {
+    "correct_form": "볼펜",
+    "correct_frequency": 420,
+    "deviant_forms": [
+      {
+        "form": "볼팬",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 424,
+    "confusion_rate": 0.9433962264150944
+  },
+  {
+    "correct_form": "페스티벌",
+    "correct_frequency": 321,
+    "deviant_forms": [
+      {
+        "form": "패스티벌",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 3,
+    "total_frequency": 324,
+    "confusion_rate": 0.9259259259259258
+  },
+  {
+    "correct_form": "에메랄드",
+    "correct_frequency": 108,
+    "deviant_forms": [
+      {
+        "form": "애메랄드",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 109,
+    "confusion_rate": 0.9174311926605505
+  },
+  {
+    "correct_form": "플랫폼",
+    "correct_frequency": 2381,
+    "deviant_forms": [
+      {
+        "form": "플렛폼",
+        "frequency": 22
+      }
+    ],
+    "deviant_frequency": 22,
+    "total_frequency": 2403,
+    "confusion_rate": 0.9155222638368706
+  },
+  {
+    "correct_form": "엘리트",
+    "correct_frequency": 654,
+    "deviant_forms": [
+      {
+        "form": "앨리트",
+        "frequency": 6
+      }
+    ],
+    "deviant_frequency": 6,
+    "total_frequency": 660,
+    "confusion_rate": 0.9090909090909091
+  },
+  {
+    "correct_form": "발레",
+    "correct_frequency": 441,
+    "deviant_forms": [
+      {
+        "form": "발래",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 445,
+    "confusion_rate": 0.8988764044943821
+  },
+  {
+    "correct_form": "프리랜서",
+    "correct_frequency": 335,
+    "deviant_forms": [
+      {
+        "form": "프리렌서",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 3,
+    "total_frequency": 338,
+    "confusion_rate": 0.8875739644970414
+  },
+  {
+    "correct_form": "텐트",
+    "correct_frequency": 456,
+    "deviant_forms": [
+      {
+        "form": "탠트",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 460,
+    "confusion_rate": 0.8695652173913043
+  },
+  {
+    "correct_form": "로맨스",
+    "correct_frequency": 1484,
+    "deviant_forms": [
+      {
+        "form": "로멘스",
+        "frequency": 13
+      }
+    ],
+    "deviant_frequency": 13,
+    "total_frequency": 1497,
+    "confusion_rate": 0.8684034736138945
+  },
+  {
+    "correct_form": "에코",
+    "correct_frequency": 501,
+    "deviant_forms": [
+      {
+        "form": "애코",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 505,
+    "confusion_rate": 0.7920792079207921
+  },
+  {
+    "correct_form": "헤드라인",
+    "correct_frequency": 128,
+    "deviant_forms": [
+      {
+        "form": "해드라인",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 129,
+    "confusion_rate": 0.7751937984496124
+  },
+  {
+    "correct_form": "뱀파이어",
+    "correct_frequency": 798,
+    "deviant_forms": [
+      {
+        "form": "벰파이어",
+        "frequency": 6
+      }
+    ],
+    "deviant_frequency": 6,
+    "total_frequency": 804,
+    "confusion_rate": 0.7462686567164178
+  },
+  {
+    "correct_form": "스트레칭",
+    "correct_frequency": 667,
+    "deviant_forms": [
+      {
+        "form": "스트래칭",
+        "frequency": 5
+      }
+    ],
+    "deviant_frequency": 5,
+    "total_frequency": 672,
+    "confusion_rate": 0.744047619047619
+  },
+  {
+    "correct_form": "드레싱",
+    "correct_frequency": 135,
+    "deviant_forms": [
+      {
+        "form": "드래싱",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 136,
+    "confusion_rate": 0.7352941176470588
+  },
+  {
+    "correct_form": "패치",
+    "correct_frequency": 1217,
+    "deviant_forms": [
+      {
+        "form": "페치",
+        "frequency": 9
+      }
+    ],
+    "deviant_frequency": 9,
+    "total_frequency": 1226,
+    "confusion_rate": 0.734094616639478
+  },
+  {
+    "correct_form": "매너",
+    "correct_frequency": 829,
+    "deviant_forms": [
+      {
+        "form": "메너",
+        "frequency": 6
+      }
+    ],
+    "deviant_frequency": 6,
+    "total_frequency": 835,
+    "confusion_rate": 0.718562874251497
+  },
+  {
+    "correct_form": "데뷔",
+    "correct_frequency": 1260,
+    "deviant_forms": [
+      {
+        "form": "대뷔",
+        "frequency": 9
+      }
+    ],
+    "deviant_frequency": 9,
+    "total_frequency": 1269,
+    "confusion_rate": 0.7092198581560284
+  },
+  {
+    "correct_form": "게르만",
+    "correct_frequency": 146,
+    "deviant_forms": [
+      {
+        "form": "개르만",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 147,
+    "confusion_rate": 0.6802721088435374
+  },
+  {
+    "correct_form": "팬티",
+    "correct_frequency": 2830,
+    "deviant_forms": [
+      {
+        "form": "펜티",
+        "frequency": 19
+      }
+    ],
+    "deviant_frequency": 19,
+    "total_frequency": 2849,
+    "confusion_rate": 0.666900666900667
+  },
+  {
+    "correct_form": "멜로디",
+    "correct_frequency": 302,
+    "deviant_forms": [
+      {
+        "form": "맬로디",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 304,
+    "confusion_rate": 0.6578947368421052
+  },
+  {
+    "correct_form": "캡",
+    "correct_frequency": 3206,
+    "deviant_forms": [
+      {
+        "form": "켑",
+        "frequency": 20
+      }
+    ],
+    "deviant_frequency": 20,
+    "total_frequency": 3226,
+    "confusion_rate": 0.6199628022318662
+  },
+  {
+    "correct_form": "오렌지",
+    "correct_frequency": 807,
+    "deviant_forms": [
+      {
+        "form": "오랜지",
+        "frequency": 5
+      }
+    ],
+    "deviant_frequency": 5,
+    "total_frequency": 812,
+    "confusion_rate": 0.6157635467980296
+  },
+  {
+    "correct_form": "에필로그",
+    "correct_frequency": 163,
+    "deviant_forms": [
+      {
+        "form": "애필로그",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 164,
+    "confusion_rate": 0.6097560975609756
+  },
+  {
+    "correct_form": "세븐",
+    "correct_frequency": 332,
+    "deviant_forms": [
+      {
+        "form": "새븐",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 334,
+    "confusion_rate": 0.5988023952095809
+  },
+  {
+    "correct_form": "백신",
+    "correct_frequency": 672,
+    "deviant_forms": [
+      {
+        "form": "벡신",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 676,
+    "confusion_rate": 0.591715976331361
+  },
+  {
+    "correct_form": "파인애플",
+    "correct_frequency": 341,
+    "deviant_forms": [
+      {
+        "form": "파인에플",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 343,
+    "confusion_rate": 0.5830903790087464
+  },
+  {
+    "correct_form": "파스텔",
+    "correct_frequency": 175,
+    "deviant_forms": [
+      {
+        "form": "파스탤",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 176,
+    "confusion_rate": 0.5681818181818182
+  },
+  {
+    "correct_form": "레슨",
+    "correct_frequency": 360,
+    "deviant_forms": [
+      {
+        "form": "래슨",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 362,
+    "confusion_rate": 0.5524861878453038
+  },
+  {
+    "correct_form": "팬츠",
+    "correct_frequency": 184,
+    "deviant_forms": [
+      {
+        "form": "펜츠",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 185,
+    "confusion_rate": 0.5405405405405406
+  },
+  {
+    "correct_form": "엔트리",
+    "correct_frequency": 187,
+    "deviant_forms": [
+      {
+        "form": "앤트리",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 188,
+    "confusion_rate": 0.5319148936170213
+  },
+  {
+    "correct_form": "멜론",
+    "correct_frequency": 786,
+    "deviant_forms": [
+      {
+        "form": "맬론",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 790,
+    "confusion_rate": 0.5063291139240507
+  },
+  {
+    "correct_form": "캠프",
+    "correct_frequency": 596,
+    "deviant_forms": [
+      {
+        "form": "켐프",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 3,
+    "total_frequency": 599,
+    "confusion_rate": 0.5008347245409015
+  },
+  {
+    "correct_form": "스테로이드",
+    "correct_frequency": 215,
+    "deviant_forms": [
+      {
+        "form": "스태로이드",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 216,
+    "confusion_rate": 0.4629629629629629
+  },
+  {
+    "correct_form": "카레",
+    "correct_frequency": 1516,
+    "deviant_forms": [
+      {
+        "form": "카래",
+        "frequency": 7
+      }
+    ],
+    "deviant_frequency": 7,
+    "total_frequency": 1523,
+    "confusion_rate": 0.4596191726854892
+  },
+  {
+    "correct_form": "클래식",
+    "correct_frequency": 892,
+    "deviant_forms": [
+      {
+        "form": "클레식",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 896,
+    "confusion_rate": 0.4464285714285714
+  },
+  {
+    "correct_form": "뱅크",
+    "correct_frequency": 462,
+    "deviant_forms": [
+      {
+        "form": "벵크",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 464,
+    "confusion_rate": 0.43103448275862066
+  },
+  {
+    "correct_form": "갤러리",
+    "correct_frequency": 953,
+    "deviant_forms": [
+      {
+        "form": "겔러리",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 957,
+    "confusion_rate": 0.41797283176593525
+  },
+  {
+    "correct_form": "탱크",
+    "correct_frequency": 241,
+    "deviant_forms": [
+      {
+        "form": "텡크",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 242,
+    "confusion_rate": 0.4132231404958678
+  },
+  {
+    "correct_form": "메시지",
+    "correct_frequency": 1780,
+    "deviant_forms": [
+      {
+        "form": "매시지",
+        "frequency": 7
+      }
+    ],
+    "deviant_frequency": 7,
+    "total_frequency": 1787,
+    "confusion_rate": 0.391717963066592
+  },
+  {
+    "correct_form": "엔진",
+    "correct_frequency": 769,
+    "deviant_forms": [
+      {
+        "form": "앤진",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 3,
+    "total_frequency": 772,
+    "confusion_rate": 0.38860103626943004
+  },
+  {
+    "correct_form": "체크",
+    "correct_frequency": 2378,
+    "deviant_forms": [
+      {
+        "form": "채크",
+        "frequency": 9
+      }
+    ],
+    "deviant_frequency": 9,
+    "total_frequency": 2387,
+    "confusion_rate": 0.3770423125261835
+  },
+  {
+    "correct_form": "딜레마",
+    "correct_frequency": 265,
+    "deviant_forms": [
+      {
+        "form": "딜래마",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 266,
+    "confusion_rate": 0.37593984962406013
+  },
+  {
+    "correct_form": "텍스트",
+    "correct_frequency": 1339,
+    "deviant_forms": [
+      {
+        "form": "택스트",
+        "frequency": 5
+      }
+    ],
+    "deviant_frequency": 5,
+    "total_frequency": 1344,
+    "confusion_rate": 0.3720238095238095
+  },
+  {
+    "correct_form": "프랑켄슈타인",
+    "correct_frequency": 275,
+    "deviant_forms": [
+      {
+        "form": "프랑캔슈타인",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 276,
+    "confusion_rate": 0.36231884057971014
+  },
+  {
+    "correct_form": "캡슐",
+    "correct_frequency": 276,
+    "deviant_forms": [
+      {
+        "form": "켑슐",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 277,
+    "confusion_rate": 0.36101083032490977
+  },
+  {
+    "correct_form": "에덴",
+    "correct_frequency": 280,
+    "deviant_forms": [
+      {
+        "form": "애댄",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 281,
+    "confusion_rate": 0.3558718861209964
+  },
+  {
+    "correct_form": "스파게티",
+    "correct_frequency": 293,
+    "deviant_forms": [
+      {
+        "form": "스파개티",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 294,
+    "confusion_rate": 0.3401360544217687
+  },
+  {
+    "correct_form": "헬스",
+    "correct_frequency": 1182,
+    "deviant_forms": [
+      {
+        "form": "핼스",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 1186,
+    "confusion_rate": 0.33726812816188867
+  },
+  {
+    "correct_form": "모텔",
+    "correct_frequency": 298,
+    "deviant_forms": [
+      {
+        "form": "모탤",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 299,
+    "confusion_rate": 0.33444816053511706
+  },
+  {
+    "correct_form": "캘린더",
+    "correct_frequency": 300,
+    "deviant_forms": [
+      {
+        "form": "켈린더",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 301,
+    "confusion_rate": 0.33222591362126247
+  },
+  {
+    "correct_form": "채널",
+    "correct_frequency": 2155,
+    "deviant_forms": [
+      {
+        "form": "체널",
+        "frequency": 7
+      }
+    ],
+    "deviant_frequency": 7,
+    "total_frequency": 2162,
+    "confusion_rate": 0.32377428307123035
+  },
+  {
+    "correct_form": "페미니즘",
+    "correct_frequency": 1238,
+    "deviant_forms": [
+      {
+        "form": "패미니즘",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 1242,
+    "confusion_rate": 0.322061191626409
+  },
+  {
+    "correct_form": "핸들",
+    "correct_frequency": 936,
+    "deviant_forms": [
+      {
+        "form": "헨들",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 3,
+    "total_frequency": 939,
+    "confusion_rate": 0.3194888178913738
+  },
+  {
+    "correct_form": "에너지",
+    "correct_frequency": 1999,
+    "deviant_forms": [
+      {
+        "form": "애너지",
+        "frequency": 6
+      }
+    ],
+    "deviant_frequency": 6,
+    "total_frequency": 2005,
+    "confusion_rate": 0.29925187032418954
+  },
+  {
+    "correct_form": "테스트",
+    "correct_frequency": 2347,
+    "deviant_forms": [
+      {
+        "form": "태스트",
+        "frequency": 7
+      }
+    ],
+    "deviant_frequency": 7,
+    "total_frequency": 2354,
+    "confusion_rate": 0.29736618521665253
+  },
+  {
+    "correct_form": "휠체어",
+    "correct_frequency": 344,
+    "deviant_forms": [
+      {
+        "form": "휠채어",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 345,
+    "confusion_rate": 0.2898550724637681
+  },
+  {
+    "correct_form": "메신저",
+    "correct_frequency": 350,
+    "deviant_forms": [
+      {
+        "form": "매신저",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 351,
+    "confusion_rate": 0.2849002849002849
+  },
+  {
+    "correct_form": "세트",
+    "correct_frequency": 4299,
+    "deviant_forms": [
+      {
+        "form": "새트",
+        "frequency": 12
+      }
+    ],
+    "deviant_frequency": 12,
+    "total_frequency": 4311,
+    "confusion_rate": 0.2783576896311761
+  },
+  {
+    "correct_form": "에피소드",
+    "correct_frequency": 1095,
+    "deviant_forms": [
+      {
+        "form": "애피소드",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 3,
+    "total_frequency": 1098,
+    "confusion_rate": 0.273224043715847
+  },
+  {
+    "correct_form": "티백",
+    "correct_frequency": 374,
+    "deviant_forms": [
+      {
+        "form": "티벡",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 375,
+    "confusion_rate": 0.26666666666666666
+  },
+  {
+    "correct_form": "라벤더",
+    "correct_frequency": 379,
+    "deviant_forms": [
+      {
+        "form": "라밴더",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 380,
+    "confusion_rate": 0.2631578947368421
+  },
+  {
+    "correct_form": "컨셉",
+    "correct_frequency": 2444,
+    "deviant_forms": [
+      {
+        "form": "컨샙",
+        "frequency": 6
+      }
+    ],
+    "deviant_frequency": 6,
+    "total_frequency": 2450,
+    "confusion_rate": 0.24489795918367346
+  },
+  {
+    "correct_form": "택시",
+    "correct_frequency": 1273,
+    "deviant_forms": [
+      {
+        "form": "텍시",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 3,
+    "total_frequency": 1276,
+    "confusion_rate": 0.23510971786833856
+  },
+  {
+    "correct_form": "프로젝트",
+    "correct_frequency": 1844,
+    "deviant_forms": [
+      {
+        "form": "프로잭트",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 1848,
+    "confusion_rate": 0.21645021645021645
+  },
+  {
+    "correct_form": "매직",
+    "correct_frequency": 510,
+    "deviant_forms": [
+      {
+        "form": "메직",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 511,
+    "confusion_rate": 0.19569471624266144
+  },
+  {
+    "correct_form": "이젤",
+    "correct_frequency": 511,
+    "deviant_forms": [
+      {
+        "form": "이잴",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 512,
+    "confusion_rate": 0.1953125
+  },
+  {
+    "correct_form": "센스",
+    "correct_frequency": 1044,
+    "deviant_forms": [
+      {
+        "form": "샌스",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 1046,
+    "confusion_rate": 0.19120458891013384
+  },
+  {
+    "correct_form": "매니저",
+    "correct_frequency": 533,
+    "deviant_forms": [
+      {
+        "form": "메니저",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 534,
+    "confusion_rate": 0.18726591760299627
+  },
+  {
+    "correct_form": "젤리",
+    "correct_frequency": 1202,
+    "deviant_forms": [
+      {
+        "form": "잴리",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 1204,
+    "confusion_rate": 0.16611295681063123
+  },
+  {
+    "correct_form": "브랜드",
+    "correct_frequency": 1291,
+    "deviant_forms": [
+      {
+        "form": "브렌드",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 1293,
+    "confusion_rate": 0.15467904098994587
+  },
+  {
+    "correct_form": "샐러드",
+    "correct_frequency": 1318,
+    "deviant_forms": [
+      {
+        "form": "셀러드",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 1320,
+    "confusion_rate": 0.15151515151515152
+  },
+  {
+    "correct_form": "프로그램",
+    "correct_frequency": 1980,
+    "deviant_forms": [
+      {
+        "form": "프로그렘",
+        "frequency": 3
+      }
+    ],
+    "deviant_frequency": 3,
+    "total_frequency": 1983,
+    "confusion_rate": 0.15128593040847202
+  },
+  {
+    "correct_form": "쿠데타",
+    "correct_frequency": 1426,
+    "deviant_forms": [
+      {
+        "form": "쿠대타",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 1428,
+    "confusion_rate": 0.1400560224089636
+  },
+  {
+    "correct_form": "캐디",
+    "correct_frequency": 1468,
+    "deviant_forms": [
+      {
+        "form": "케디",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 1470,
+    "confusion_rate": 0.13605442176870747
+  },
+  {
+    "correct_form": "인터넷",
+    "correct_frequency": 3681,
+    "deviant_forms": [
+      {
+        "form": "인터냇",
+        "frequency": 5
+      }
+    ],
+    "deviant_frequency": 5,
+    "total_frequency": 3686,
+    "confusion_rate": 0.13564839934888767
+  },
+  {
+    "correct_form": "셀프",
+    "correct_frequency": 1556,
+    "deviant_forms": [
+      {
+        "form": "샐프",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 1558,
+    "confusion_rate": 0.12836970474967907
+  },
+  {
+    "correct_form": "카페",
+    "correct_frequency": 9817,
+    "deviant_forms": [
+      {
+        "form": "카패",
+        "frequency": 12
+      }
+    ],
+    "deviant_frequency": 12,
+    "total_frequency": 9829,
+    "confusion_rate": 0.12208769966425882
+  },
+  {
+    "correct_form": "드레스",
+    "correct_frequency": 865,
+    "deviant_forms": [
+      {
+        "form": "드래스",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 866,
+    "confusion_rate": 0.11547344110854503
+  },
+  {
+    "correct_form": "모델",
+    "correct_frequency": 3490,
+    "deviant_forms": [
+      {
+        "form": "모댈",
+        "frequency": 4
+      }
+    ],
+    "deviant_frequency": 4,
+    "total_frequency": 3494,
+    "confusion_rate": 0.11448196908986834
+  },
+  {
+    "correct_form": "호텔",
+    "correct_frequency": 1771,
+    "deviant_forms": [
+      {
+        "form": "호탤",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 1773,
+    "confusion_rate": 0.1128031584884377
+  },
+  {
+    "correct_form": "스트레스",
+    "correct_frequency": 5624,
+    "deviant_forms": [
+      {
+        "form": "스트래스",
+        "frequency": 6
+      }
+    ],
+    "deviant_frequency": 6,
+    "total_frequency": 5630,
+    "confusion_rate": 0.10657193605683836
+  },
+  {
+    "correct_form": "아메리카",
+    "correct_frequency": 940,
+    "deviant_forms": [
+      {
+        "form": "아매리카",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 941,
+    "confusion_rate": 0.10626992561105207
+  },
+  {
+    "correct_form": "세팅",
+    "correct_frequency": 1047,
+    "deviant_forms": [
+      {
+        "form": "새팅",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 1048,
+    "confusion_rate": 0.09541984732824427
+  },
+  {
+    "correct_form": "카메라",
+    "correct_frequency": 2232,
+    "deviant_forms": [
+      {
+        "form": "카매라",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 2234,
+    "confusion_rate": 0.08952551477170993
+  },
+  {
+    "correct_form": "콘텐츠",
+    "correct_frequency": 2250,
+    "deviant_forms": [
+      {
+        "form": "콘탠츠",
+        "frequency": 2
+      }
+    ],
+    "deviant_frequency": 2,
+    "total_frequency": 2252,
+    "confusion_rate": 0.08880994671403197
+  },
+  {
+    "correct_form": "이벤트",
+    "correct_frequency": 8064,
+    "deviant_forms": [
+      {
+        "form": "이밴트",
+        "frequency": 7
+      }
+    ],
+    "deviant_frequency": 7,
+    "total_frequency": 8071,
+    "confusion_rate": 0.08673026886383348
+  },
+  {
+    "correct_form": "채팅",
+    "correct_frequency": 1264,
+    "deviant_forms": [
+      {
+        "form": "체팅",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 1265,
+    "confusion_rate": 0.07905138339920949
+  },
+  {
+    "correct_form": "핸드폰",
+    "correct_frequency": 1717,
+    "deviant_forms": [
+      {
+        "form": "헨드폰",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 1718,
+    "confusion_rate": 0.05820721769499418
+  },
+  {
+    "correct_form": "패턴",
+    "correct_frequency": 1739,
+    "deviant_forms": [
+      {
+        "form": "페턴",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 1740,
+    "confusion_rate": 0.05747126436781609
+  },
+  {
+    "correct_form": "앨범",
+    "correct_frequency": 1811,
+    "deviant_forms": [
+      {
+        "form": "엘범",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 1812,
+    "confusion_rate": 0.05518763796909492
+  },
+  {
+    "correct_form": "에어컨",
+    "correct_frequency": 1904,
+    "deviant_forms": [
+      {
+        "form": "애어컨",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 1905,
+    "confusion_rate": 0.05249343832020997
+  },
+  {
+    "correct_form": "티켓",
+    "correct_frequency": 2130,
+    "deviant_forms": [
+      {
+        "form": "티캣",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 2131,
+    "confusion_rate": 0.04692632566870014
+  },
+  {
+    "correct_form": "백업",
+    "correct_frequency": 2239,
+    "deviant_forms": [
+      {
+        "form": "벡업",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 2240,
+    "confusion_rate": 0.044642857142857144
+  },
+  {
+    "correct_form": "센터",
+    "correct_frequency": 2583,
+    "deviant_forms": [
+      {
+        "form": "샌터",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 2584,
+    "confusion_rate": 0.03869969040247678
+  },
+  {
+    "correct_form": "레벨",
+    "correct_frequency": 2782,
+    "deviant_forms": [
+      {
+        "form": "래벨",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 2783,
+    "confusion_rate": 0.035932446999640676
+  },
+  {
+    "correct_form": "블랙",
+    "correct_frequency": 3161,
+    "deviant_forms": [
+      {
+        "form": "블렉",
+        "frequency": 1
+      }
+    ],
+    "deviant_frequency": 1,
+    "total_frequency": 3162,
+    "confusion_rate": 0.031625553447185324
+  },
+  {
+    "correct_form": "갤럽",
+    "correct_frequency": 99,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 99,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "그래프",
+    "correct_frequency": 283,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 283,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "그래픽",
+    "correct_frequency": 1391,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 1391,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "내셔널리즘",
+    "correct_frequency": 31,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 31,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "냅킨",
+    "correct_frequency": 41,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 41,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "네거티브",
+    "correct_frequency": 102,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 102,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "네트워크",
+    "correct_frequency": 556,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 556,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "네티즌",
+    "correct_frequency": 42,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 42,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "다니엘",
+    "correct_frequency": 326,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 326,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "다이애나",
+    "correct_frequency": 34,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 34,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "다큐멘터리",
+    "correct_frequency": 341,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 341,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "데릭",
+    "correct_frequency": 102,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 102,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "데미안",
+    "correct_frequency": 78,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 78,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "델타",
+    "correct_frequency": 829,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 829,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "돈키호테",
+    "correct_frequency": 80,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 80,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "듀엣",
+    "correct_frequency": 240,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 240,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "디즈니랜드",
+    "correct_frequency": 57,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 57,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "램프",
+    "correct_frequency": 205,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 205,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "랭킹",
+    "correct_frequency": 268,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 268,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "레스토랑",
+    "correct_frequency": 350,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 350,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "레슬링",
+    "correct_frequency": 141,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 141,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "레즈비언",
+    "correct_frequency": 400,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 400,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "레지던트",
+    "correct_frequency": 91,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 91,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "레코드",
+    "correct_frequency": 181,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 181,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "렌터카",
+    "correct_frequency": 34,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 34,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "룰렛",
+    "correct_frequency": 235,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 235,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "르네상스",
+    "correct_frequency": 43,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 43,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "마그네슘",
+    "correct_frequency": 49,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 49,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "마요네즈",
+    "correct_frequency": 218,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 218,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "맨홀",
+    "correct_frequency": 47,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 47,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "메모리",
+    "correct_frequency": 617,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 617,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "메시아",
+    "correct_frequency": 51,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 51,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "모델링",
+    "correct_frequency": 647,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 647,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "미네랄",
+    "correct_frequency": 37,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 37,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "바벨",
+    "correct_frequency": 134,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 134,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "바텐더",
+    "correct_frequency": 89,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 89,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "박테리아",
+    "correct_frequency": 32,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 32,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "발레리나",
+    "correct_frequency": 50,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 50,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "베스트셀러",
+    "correct_frequency": 98,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 98,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "벨벳",
+    "correct_frequency": 183,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 183,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "보헤미안",
+    "correct_frequency": 58,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 58,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "블랙리스트",
+    "correct_frequency": 126,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 126,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "블랙홀",
+    "correct_frequency": 268,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 268,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "사이렌",
+    "correct_frequency": 210,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 210,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "샌드백",
+    "correct_frequency": 56,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 56,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "샌드위치",
+    "correct_frequency": 1257,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 1257,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "샘플",
+    "correct_frequency": 1740,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 1740,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "세라믹",
+    "correct_frequency": 43,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 43,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "세로토닌",
+    "correct_frequency": 41,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 41,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "세미나",
+    "correct_frequency": 142,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 142,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "센서",
+    "correct_frequency": 312,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 312,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "소네트",
+    "correct_frequency": 118,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 118,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "쇼핑백",
+    "correct_frequency": 78,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 78,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "숄더백",
+    "correct_frequency": 34,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 34,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "슈퍼마켓",
+    "correct_frequency": 49,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 49,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "슈퍼맨",
+    "correct_frequency": 185,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 185,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "스캐너",
+    "correct_frequency": 43,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 43,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "스캔들",
+    "correct_frequency": 96,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 96,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "스케줄",
+    "correct_frequency": 641,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 641,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "스크랩",
+    "correct_frequency": 106,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 106,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "스테레오",
+    "correct_frequency": 98,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 98,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "스프레드시트",
+    "correct_frequency": 37,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 37,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "시멘트",
+    "correct_frequency": 119,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 119,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "시스템",
+    "correct_frequency": 3809,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 3809,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "신데렐라",
+    "correct_frequency": 114,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 114,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "아가페",
+    "correct_frequency": 31,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 31,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "아이덴티티",
+    "correct_frequency": 112,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 112,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "아이템",
+    "correct_frequency": 1412,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 1412,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "아카데미",
+    "correct_frequency": 244,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 244,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "아틀리에",
+    "correct_frequency": 58,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 58,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "악센트",
+    "correct_frequency": 65,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 65,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "안테나",
+    "correct_frequency": 76,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 76,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "알렉산드리아",
+    "correct_frequency": 122,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 122,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "알파벳",
+    "correct_frequency": 149,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 149,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "액세서리",
+    "correct_frequency": 75,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 75,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "앵커",
+    "correct_frequency": 136,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 136,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "에로스",
+    "correct_frequency": 71,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 71,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "에센스",
+    "correct_frequency": 90,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 90,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "에스프레소",
+    "correct_frequency": 406,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 406,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "에스프리",
+    "correct_frequency": 91,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 91,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "에티켓",
+    "correct_frequency": 56,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 56,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "엑스트라",
+    "correct_frequency": 235,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 235,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "엑스포",
+    "correct_frequency": 188,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 188,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "엔지니어",
+    "correct_frequency": 358,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 358,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "엔지니어링",
+    "correct_frequency": 76,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 76,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "엔트로피",
+    "correct_frequency": 72,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 72,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "오디세우스",
+    "correct_frequency": 52,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 52,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "오르페우스",
+    "correct_frequency": 70,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 70,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "오케스트라",
+    "correct_frequency": 180,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 180,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "오페라",
+    "correct_frequency": 280,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 280,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "오피스텔",
+    "correct_frequency": 75,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 75,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "요셉",
+    "correct_frequency": 33,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 33,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "웨딩드레스",
+    "correct_frequency": 115,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 115,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "유네스코",
+    "correct_frequency": 129,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 129,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "유니세프",
+    "correct_frequency": 32,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 32,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "이데아",
+    "correct_frequency": 130,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 130,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "이데올로기",
+    "correct_frequency": 134,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 134,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "인덱스",
+    "correct_frequency": 96,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 96,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "인센티브",
+    "correct_frequency": 60,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 60,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "인테리어",
+    "correct_frequency": 472,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 472,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "인텔리",
+    "correct_frequency": 105,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 105,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "인플레",
+    "correct_frequency": 248,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 248,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "인플루엔자",
+    "correct_frequency": 59,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 59,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "재규어",
+    "correct_frequency": 34,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 34,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "재킷",
+    "correct_frequency": 146,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 146,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "잼버리",
+    "correct_frequency": 183,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 183,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "제스처",
+    "correct_frequency": 197,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 197,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "제우스",
+    "correct_frequency": 268,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 268,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "챔피언",
+    "correct_frequency": 216,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 216,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "침팬지",
+    "correct_frequency": 92,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 92,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "카르텔",
+    "correct_frequency": 275,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 275,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "카멜레온",
+    "correct_frequency": 41,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 41,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "카세트",
+    "correct_frequency": 84,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 84,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "카테고리",
+    "correct_frequency": 429,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 429,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "카펫",
+    "correct_frequency": 139,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 139,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "캐럴",
+    "correct_frequency": 102,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 102,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "캐스팅",
+    "correct_frequency": 458,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 458,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "캔디",
+    "correct_frequency": 348,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 348,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "캠퍼스",
+    "correct_frequency": 153,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 153,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "캠프파이어",
+    "correct_frequency": 34,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 34,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "캠핑",
+    "correct_frequency": 461,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 461,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "캡틴",
+    "correct_frequency": 246,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 246,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "캥거루",
+    "correct_frequency": 72,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 72,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "컴백",
+    "correct_frequency": 282,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 282,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "콘테스트",
+    "correct_frequency": 113,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 113,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "콜레스테롤",
+    "correct_frequency": 63,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 63,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "콤플렉스",
+    "correct_frequency": 65,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 65,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "클라이맥스",
+    "correct_frequency": 42,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 42,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "탱고",
+    "correct_frequency": 51,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 51,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "테니스",
+    "correct_frequency": 159,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 159,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "테라스",
+    "correct_frequency": 202,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 202,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "테러리스트",
+    "correct_frequency": 174,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 174,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "테마파크",
+    "correct_frequency": 86,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 86,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "테스토스테론",
+    "correct_frequency": 71,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 71,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "테티스",
+    "correct_frequency": 46,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 46,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "텔레비전",
+    "correct_frequency": 62,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 62,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "토템",
+    "correct_frequency": 84,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 84,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "패러다임",
+    "correct_frequency": 59,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 59,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "패션쇼",
+    "correct_frequency": 63,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 63,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "패키지",
+    "correct_frequency": 935,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 935,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "팬지",
+    "correct_frequency": 114,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 114,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "페가수스",
+    "correct_frequency": 42,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 42,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "페로몬",
+    "correct_frequency": 60,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 60,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "페르세우스",
+    "correct_frequency": 41,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 41,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "펜싱",
+    "correct_frequency": 95,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 95,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "프라이팬",
+    "correct_frequency": 50,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 50,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "프레스",
+    "correct_frequency": 600,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 600,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "프로그래머",
+    "correct_frequency": 191,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 191,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "프로그래밍",
+    "correct_frequency": 216,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 216,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "프로메테우스",
+    "correct_frequency": 64,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 64,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "프로세서",
+    "correct_frequency": 68,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 68,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "프로세스",
+    "correct_frequency": 146,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 146,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "프롤레타리아",
+    "correct_frequency": 37,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 37,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "플랜트",
+    "correct_frequency": 37,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 37,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "피드백",
+    "correct_frequency": 915,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 915,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "핀셋",
+    "correct_frequency": 36,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 36,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "하이테크",
+    "correct_frequency": 69,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 69,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "할렐루야",
+    "correct_frequency": 37,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 37,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "해킹",
+    "correct_frequency": 1083,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 1083,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "햄릿",
+    "correct_frequency": 78,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 78,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "햄버거",
+    "correct_frequency": 997,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 997,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "헤게모니",
+    "correct_frequency": 67,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 67,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "헤드폰",
+    "correct_frequency": 224,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 224,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "헤르메스",
+    "correct_frequency": 227,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 227,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "헤비메탈",
+    "correct_frequency": 37,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 37,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "헤어스타일",
+    "correct_frequency": 288,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 288,
+    "confusion_rate": 0.0
+  },
+  {
+    "correct_form": "헬리콥터",
+    "correct_frequency": 47,
+    "deviant_forms": [],
+    "deviant_frequency": 0,
+    "total_frequency": 47,
+    "confusion_rate": 0.0
+  }
+]
