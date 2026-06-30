@@ -1,4 +1,3 @@
-```javascript
 'use strict';
 
 const DATA_URL = './loanwords.json';
@@ -500,4 +499,3 @@ function setStatus(
     isError
   );
 }
-```
